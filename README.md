@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Thakare</h1>
 <h3 align="center">A passionate developer</h3>
+<image align = "right" alt ="coding" width= "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🔭 I’m currently working on **NLP Operation's Web App**
 
