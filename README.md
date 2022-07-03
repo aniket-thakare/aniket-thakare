@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Thakare</h1>
 <h3 align="center">A passionate developer</h3>
-<image align = "right" alt ="coding" width= "400" src = "https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif">
+<img align ="right" alt="Coding" width="400" src ="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 
 - 🔭 I’m currently working on **NLP Operation's Web App**
 
